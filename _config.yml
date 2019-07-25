@@ -4,7 +4,7 @@ title: "AstroThoughts"
 description: "Blog of the Space Technology and Astronomy Cell"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /
+baseurl: ''
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -26,6 +26,11 @@ authors:
     display_name: Shishir (B16144)
     email: b16144@students.iitmandi.ac.in
     description: "Core Team Member 2018"
+  anant:
+    name: Anant Mishra
+    display_name: mishranant
+    email: anant.mishra.student@gmail.com
+    description: "A CS Undergraduate, intern at Arista Networks"
 
 # Plugins
 plugins:
